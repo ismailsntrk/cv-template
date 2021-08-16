@@ -1,0 +1,29 @@
+#denemeId {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  height: 40%;
+  font-weight: bold;
+  width: 50%;
+  font-size: 50px;
+  border-radius:50px;
+  border-width: 10px;
+  border-color:indigo;
+}
+p {
+
+  color: hotpink;
+}
+
+#deneme {
+  width: 100%;
+  text-align: center;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: gray;
+}
